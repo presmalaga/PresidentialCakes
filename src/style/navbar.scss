@@ -1,0 +1,36 @@
+.navbar {
+    width:100% ;
+    font-family: 'PT Sans Narrow', sans-serif;
+    display: inline;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 5;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d2bba0;
+    position: sticky;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: none;
+    background-color: #d2bba0;
+}
+
+.active {
+    background-color: #9E7E6A;
+}

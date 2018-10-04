@@ -1,0 +1,30 @@
+  .footer__block {
+    width: 100vw;
+    box-sizing: content-box;
+    display: block;
+    float: none;
+    line-height: 26px;
+    position: static;
+    z-index: auto;
+  }
+
+  .form__footer {
+    background: green;
+    // position: absolute;
+    bottom: 0;
+    width: 100vw;
+    height: 30px;
+    text-align: center;
+    // justify-self: end;
+    // display: flex;
+  }
+
+  .footer__link { 
+    background: green;
+    width: 100vw;   
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 1.5em;
+  }
+  

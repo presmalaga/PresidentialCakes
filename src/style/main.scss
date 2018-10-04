@@ -1,0 +1,31 @@
+@import 'navbar';
+@import 'middle';
+@import 'images';
+@import 'footer';
+@import 'form';
+
+body {
+    overflow-x: hidden;
+    background: #F2EEC9; 
+    text-align: center;    
+    // margin-top: 10px;
+    // margin-right: 10px;
+    margin-left: 10px;
+}
+
+.font {
+    font-size: 4em;
+    font-family: 'Slabo 27px', serif;
+    max-height: 45px;
+}
+
+#header {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.head p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    margin-top: 30px;
+}
