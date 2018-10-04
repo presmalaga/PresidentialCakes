@@ -5,7 +5,7 @@ class Footer extends Component {
         return (
             <div className="form__footer">
                 <div className="footer__links">
-                    <a className="footer__link" href="#">POTUS © 2018</a>
+                    <a className="footer__link" href="#"> © 2018</a>
                     <a className="footer__link" href="#">Privacy &amp; Legal</a>
                     <a className="footer__link" href="#">Contact</a>
                     <a className="footer__link" href="#">Careers</a>
